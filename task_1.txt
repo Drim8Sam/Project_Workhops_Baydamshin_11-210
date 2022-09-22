@@ -1,3 +1,5 @@
 Hello, my name is Renat. 
 I study at KFU(ITIS).
 Trainig takes place online
+Trainig akes place ofline
+>>>>>>> 3b4ec9c44a36814e78cff09a5395b23ddd5297b8
